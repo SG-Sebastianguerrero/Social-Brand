@@ -1,0 +1,62 @@
+
+.datos_registro{
+  display: flex;
+  justify-content: space-around;
+}
+.container_registro{
+  text-align: center;
+  /* border: grey 5px double;*/
+   border-radius: 10px;
+}
+
+.pedido{
+  text-align: center;
+  justify-content: space-around;
+}
+
+h1{
+  text-align: center;
+  margin-top: 0;
+  color: white;
+}
+
+.pedido_container{
+  background-color: black;
+      display: flex;
+      justify-content: space-around;
+}
+
+.lista{
+  text-align: center;
+   border: grey 5px double;
+   display:  block;
+   justify-content: space-around;
+}
+
+
+.inicio {
+      margin-left: 82px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+}
+.cerrar_sesion{
+  width: 155px;
+}
+
+.tabla{
+     width: 100%;
+     border: 1px solid #000;
+}
+
+th, td {
+     width: 25px;
+     border: 1px solid #000;
+     border-collapse: collapse;
+     padding: 0.3em;
+     caption-side: bottom;
+}
+
+
+th {
+     background: #eee;
+}

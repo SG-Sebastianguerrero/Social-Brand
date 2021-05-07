@@ -1,0 +1,28 @@
+.tabla_pedidos {
+     width: 100%;
+     border: 1px solid #000;
+}
+
+th, td {
+     width: 25px;
+     border: 1px solid #000;
+     border-collapse: collapse;
+     padding: 0.3em;
+     caption-side: bottom;
+}
+
+.lista_pedidos, .eliminar_container{
+     width: 100%;
+     border: 1px solid #000;
+     text-align: center;
+}
+
+.cerrar_sesion{
+  width: 155px;
+}
+
+.inicio {
+      margin-left: 82vw;
+      margin-top: 20px;
+      margin-bottom: 20px;
+}

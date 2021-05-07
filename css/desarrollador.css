@@ -1,0 +1,39 @@
+.pedido_container{
+  text-align: center;
+
+   justify-content: space-around;
+   display: flex;
+   align-items: center;
+}
+.text_pedido_container{
+border: grey 5px double;
+display: block;
+text-align: center;
+}
+
+.tabla_pedidos{
+     width: 100%;
+     border: 1px solid #000;
+}
+
+th, td {
+     width: 25px;
+     border: 1px solid #000;
+     border-collapse: collapse;
+     padding: 0.3em;
+     caption-side: bottom;
+}
+
+.lista_pendientes{
+  border: grey 5px double;
+  display: block;
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+.inicio{
+  margin-left: 82vw;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
